@@ -1,0 +1,11 @@
+---
+title: "hw2-577"
+author: "Lian Zuo"
+date: "2023-10-02"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
